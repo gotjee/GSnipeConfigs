@@ -151,7 +151,7 @@
 {"Class":"Pet","IsTitanic":true,"MaxUnitPrice":1000000},
 {"Class":"Pet","Rarity":["Exclusive"],"MaxUnitPrice":5000},
 {"Class":"Egg","Rarity":["Exclusive"],"MaxUnitPrice":100000},
-{"Class":"Lootbox","Id":"2024 NEW YEARS GIFT","MaxUnitPrice":25000},
+{"Class":"Lootbox","Id":"2024 New Years Gift","MaxUnitPrice":60000},
 {"Class":"Lootbox","Id":"Titanic Christmas Present","MaxUnitPrice":100000},
 {"Class":"Lootbox","Id":"X-Large Christmas Present","MaxUnitPrice":20000},
 {"Class":"Lootbox","Id":"Large Christmas Present","MaxUnitPrice":5000},
