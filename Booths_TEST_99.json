@@ -1,0 +1,10 @@
+{"Booths":{"Selling":{"SellingList":[
+{"Class":"Fruit","Id":"BrokenShitFruit","UnitPrice":60000,"MaxStackSize":10},
+{"Class":"Fruit","Id":"Rainbow","UnitPrice":700,"MaxStackSize":10},
+{"Class":"Fruit","Id":"PleaseBreak","UnitPrice":115000}
+],"autoMultipliers":{"enableHC":true,"HCmulti":"3","enableSH":true,"SHmulti":"2","enableG":true,"Gmulti":"2.5","enableRB":true,"RBmulti":"6.5","enableDM":true,"DMmulti":"15"},"StartSellingPet":true},"Extra":{"MinimumPlayers":"20","BoothServerHopTime":"60","HopToMaxPing":"100","HopToMinFps":"10","BoothServerHop":true,"BoothServerHopTimeMax":"75","TeleportToBooth":true},"Sniping":{"WaitAfterTP":"0.20","AutoRapBuy":false,"MinimumGemsWarning":"50000","HopAfterHuge":true,"StartSnipingPet":true,
+"SnipingList":[
+{"Class":"Misc","Id":"Shitty Toy Ball","MaxUnitPrice":100},
+{"Class":"Fruit","Id":"Rainbow","MaxUnitPrice":5},
+{"Class":"Misc","Id":"Squeaky Shitty Toy","MaxUnitPrice":5}
+],"BlackList":[]}}}
