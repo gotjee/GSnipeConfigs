@@ -262,7 +262,7 @@
 {"Class":"Booth","Id":"Unicorn","MaxUnitPrice":25000},
 {"Class":"Booth","Id":"Fishing","MaxUnitPrice":50000},
 {"Class":"Booth","Id":"Merchant","MaxUnitPrice":50000},
-{"Class":"Booth","Id":"Balloon","MaxUnitPrice":50000},
+{"Class":"Booth","Id":"Balloon","MaxUnitPrice":300000},
 {"Class":"Booth","Id":"Neon Twilight","MaxUnitPrice":50000},
 {"Class":"Booth","MaxUnitPrice":5000},
 {"Class":"Fruit","Id":"Rainbow","MaxUnitPrice":5},
